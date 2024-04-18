@@ -2,25 +2,25 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Bienvenue%2C+my+name+is+Kaik;I'm+28+years+old;I'm+a+Data+Science;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=50&duration=3500&pause=1000&color=d5bdaf&center=true&vCenter=true&random=false&width=1000&lines=Bienvenue%2C+my+name+is+Kaik;I'm+28+years+old;I'm+a+Data+Science;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <div align="center"> 
 
 <a href="mailto:cmp.1a.kaikmarques.ti@hotmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center"  height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
 
 <a  href="https://www.linkedin.com/in/kaikxavier/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
+<img align="center"  height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+
+
 
 </div>
 
 <div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/KaikMarques?chart=3dbar&gap=0.6&scale=2&light=16&gradient=true&flatten=2&animation=raise&animation_duration=0.1&animation_delay=0.1&format=svg&weeks=30&theme=green&widget_size=large) 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaikMarques&bg_color=2b2d42&color=ef233c&line=8d99ae&point=edf2f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
