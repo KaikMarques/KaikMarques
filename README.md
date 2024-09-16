@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=J.P&section=header&animation=fadeIn"/>
+<img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Java%20Python&section=header&animation=fadeIn&fontSize=20"/>
 <br>
 
 
